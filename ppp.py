@@ -1,5 +1,6 @@
 print('olá')
-
+print('eai')
+print('vai lá')
 
 def função(): 
     a = input("digite um número positivo de 1 a 3")
